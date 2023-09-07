@@ -1,0 +1,32 @@
+{
+	
+	"urlRegistry": "http://127.0.0.0:4000/registry/api/v1/registry",
+	"ignoreExistingJsons": false,
+
+	"aasToMap": [
+	],
+
+	"semanticIdAid": {
+		"idType": "Custom",
+		"value": "th-koeln.de/aid",
+		"local": true,
+		"type": "Submodel"
+	},
+	"semanticIdAimc": {
+		"idType": "Custom",
+		"value": "th-koeln.de/aimc",
+		"local": true,
+		"type": "Submodel"
+	},
+	
+	"triggerOptions": {
+		
+
+	},
+	"defaultTimerPeriod": 600000
+}
+
+
+
+
+
